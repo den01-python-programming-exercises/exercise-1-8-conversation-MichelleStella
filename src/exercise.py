@@ -1,7 +1,7 @@
 def main():
     #write your code below this line
-    input("Greetings ! How are you doing ?\n")
-    input("Oh, how interesting. Tell me more !\n")
+    input("Greetings! How are you doing?\n")
+    input("Oh, how interesting. Tell me more!\n")
     print("Thanks for sharing!")
 
 if __name__ == '__main__':
